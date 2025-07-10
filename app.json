@@ -1,8 +1,8 @@
 {
-  "name": "RAHEEM-XMD-3",
-  "description": "Javascript WhatsApp bot made ʙʏ RAHEEM-CM",
-  "logo": "https://files.catbox.moe/a97zm1.jpg",
-  "keywords": ["RAHEEM-XMD-3"],
+  "name": "꧁༒☾VG255MD☽༒꧂",
+  "description": "Javascript WhatsApp bot made ʙʏ ꧁༒☾VG255MD☽༒꧂",
+  "logo": "https://files.catbox.moe/ns7kis.png",
+  "keywords": ["꧁༒☾VG255MD☽༒꧂"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "RAHEEM-XMD-3"
+      "value": "꧁༒☾VG255MD☽༒꧂"
     }, 
       
     "PREFIX": {
@@ -79,14 +79,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY RAHEEM-XMD-3 🐺*"
+      "value": "*SEEN YOUR STATUS BY ꧁༒☾VG255MD☽༒꧂*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "RAHEEM-CM"
+      "value": "꧁༒☾VG255MD☽༒꧂"
 }, 
 
     "OWNER_NUMBER": {
@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "RAHEEM-XMD-3"
+      "value": "꧁༒☾VG255MD☽༒꧂"
 
       }, 
 
@@ -132,13 +132,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/aq881d.jpg"
+      "value": "https://files.catbox.moe/ns7kis.png"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ RAHEEM-XMD-3*"
+      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꧁༒☾VG255MD☽༒꧂*"
     },
 
       "DELETE_LINKS": {

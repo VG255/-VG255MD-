@@ -35,7 +35,7 @@ const updateEnv = (key, value) => {
 
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "RAHEEM-XMD-2>>>",
+    SESSION_ID: process.env.SESSION_ID || "SKIDDY~",
     // add your Session Id
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
     // make true or false status auto seen
@@ -43,7 +43,7 @@ module.exports = {
     // make true if you want auto reply on status
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
     // make true if you want auto reply on status
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY RAHEEM-CM👑*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR ꧁༒☾VG255MD☽༒꧂👑*",
     // set the auto reply massage on status reply
     WELCOME: process.env.WELCOME || "false",
     // true if want welcome and goodbye msg in groups
@@ -53,11 +53,11 @@ module.exports = {
     // make anti link true,false for groups
     MENTION_REPLY: process.env.MENTION_REPLY || "false",
     // make true if want auto voice reply if someone menetion you
-    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/aq881d.jpg",
+    MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/ns7kis.png",
     // add custom menu and mention reply image url
     PREFIX: process.env.PREFIX || "+",
     // add your prifix for bot
-    BOT_NAME: process.env.BOT_NAME || "RAHEEM-XMD-3",
+    BOT_NAME: process.env.BOT_NAME || "꧁༒☾VG255MD☽༒꧂",
     // add bot namw here for menu
     STICKER_NAME: process.env.STICKER_NAME || "𝗜𝗟 𝗡𝗘 𝗙𝗔𝗨 𝗣𝗔𝗦 𝗔𝗧𝗧𝗘𝗡𝗗𝗥𝗘 𝗗'𝗘̂𝗧𝗥𝗘 𝗣𝗔𝗥𝗙𝗔𝗜𝗧 𝗣𝗢𝗨𝗥 𝗖𝗢𝗠𝗠𝗘𝗡𝗖𝗘𝗥 𝗤𝗨𝗘𝗟𝗤𝗨𝗘𝗦 𝗖𝗛𝗢𝗦𝗘 𝗗𝗘 𝗕𝗜𝗘𝗡",
     // type sticker pack name
@@ -71,11 +71,11 @@ module.exports = {
     // add your bot owner number
     OWNER_NAME: process.env.OWNER_NAME || "RAHEEM-CM",
     // add bot owner name
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴇᴠ RAHEEM-CM*",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴇᴠ ꧁༒☾VG255MD☽༒꧂*",
     // add bot owner name
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/xp1wdz.jpg",
     // add img for alive msg
-    LIVE_MSG: process.env.LIVE_MSG || "> * 𝒜𝐵𝒟𝒰𝐿𝑅𝒜𝐻𝐼𝑀 to RAHEEM-XMD-3*❄️",
+    LIVE_MSG: process.env.LIVE_MSG || "> * ꧁༒☾FELICIANMD☽༒꧂ to ꧁༒☾VG255MD☽༒꧂*❄️",
     // add alive msg here
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
     // Turn true or false for automatic read msgs
@@ -101,7 +101,7 @@ module.exports = {
     // true for automatic show typing
     READ_CMD: process.env.READ_CMD || "false",
     // true if want mark commands as read
-    DEV: process.env.DEV || "255763111390",
+    DEV: process.env.DEV || "255619712382",
     //replace with your whatsapp number
     ANTI_VV: process.env.ANTI_VV || "true",
     // true for anti once view
